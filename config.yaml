@@ -1,6 +1,6 @@
-baseURL: https://entra.ca
+baseURL: https://blog.unflipgame.com
 languageCode: "en-us"
-title: My Blog
+title: Unflip Blog
   #paginate: 5
 pagination.pagerSize: 5
 theme: PaperMod
@@ -23,8 +23,8 @@ params:
   author: Paul-Andre Henegar
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light, auto
+  DateFormat: "2 Jan 2006"
+  defaultTheme: auto # dark, light, auto
   disableThemeToggle: false
   # math: true    # It's better to set "math: true" in each blog post individually.
 
@@ -54,7 +54,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "entra.ca"
+    text: "Unflip Blog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
